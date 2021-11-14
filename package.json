@@ -10,7 +10,7 @@
     "ionicons": "^4.5.5",
     "jquery": "^3.5.1",
     "popper.js": "^1.14.7",
-    "tether": "^1.4.5"
+    "tether": "^1.4.7"
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",
